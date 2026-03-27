@@ -1,4 +1,4 @@
 // Local backend during development; change back to production as needed
-const serverUrl = "http://localhost:3000";
+const serverUrl = "https://cunstructoback.onrender.com";
 
 export default serverUrl;
